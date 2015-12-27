@@ -3,7 +3,7 @@ layout: post
 title: The Emperor of Ice Cream
 date: 2015-07-06 07:59:00
 ---
-
+<p>
 Call the roller of big cigars,    
 The muscular one, and bid him whip    
 In kitchen cups concupiscent curds.    
@@ -21,5 +21,6 @@ If her horny feet protrude, they come
 To show how cold she is, and dumb.    
 Let the lamp affix its beam.    
 The only emperor is the emperor of ice-cream.     
+</p>
 
 ### Wallace Stevens

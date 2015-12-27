@@ -1,12 +1,11 @@
 ---
 layout: page
-title: portfolio
-permalink: /portfolio/
+title: Design
+permalink: /design/
 ---
+{% for project in site.design %}
 
-{% for project in site.portfolio %}
-
-{% if project.redirect %}
+{% if project.redirect %}        
 <div class="project">
     <div class="thumbnail">
         <a href="{{ project.redirect }}" target="_blank">
@@ -24,7 +23,6 @@ permalink: /portfolio/
     </div>
 </div>
 {% else %}
-
 <div class="project ">
     <div class="thumbnail">
         <a href="{{ site.baseurl }}{{ project.url }}">
@@ -41,7 +39,5 @@ permalink: /portfolio/
         </a>
     </div>
 </div>
-
 {% endif %}
-
 {% endfor %}
