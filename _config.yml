@@ -23,8 +23,12 @@ collections:
   design:
     output: true
     permalink: /design/:path/
+
   handcraft:
     output: true
     permalink: /handcraft/:path/
 
+  blog:
+    output: true
+    permalink: /blog/:path/
 
