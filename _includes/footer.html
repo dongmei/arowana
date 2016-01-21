@@ -1,10 +1,21 @@
-<footer class="site-footer">
+<div id="footerwrap">
+    <div class="container">
+       <div class="row">
+            <div class="col-lg-4">
+                <h4>Around the web</h4>
+                <div class="hline-w"></div>
+                <p>
+                    {% for network in site.social %}
+                        <a href="{{ network.url }}" class="btn-social btn-outline"><i class="fa fa-{{ network.title }}"></i></a>
+                    {% endfor %}
+                </p>
+            </div>
+        </div>
 
-  <div class="wrapper">
-  	<!-- <p>This site was built using <a href="http://jekyllrb.com" target="_blank">Jekyll</a> and is hosted on <a href="https://github.com" target="_blank">Github</a> Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a> and text generated with <a href="http://hipsum.co" target="_blank">Hipster Ipsum</a>. &#169; 2015</p> -->
-  	<p>
-  		All Rigths Reserved.&#169; 2015
-  	</p>
-  </div>
 
-</footer>
+    <div>
+      <csmall>© 2016 All Rights Reserved.</csmall>
+    </div>
+
+    </div><!-- //container --> 
+</div><!-- //footerwrap -->
