@@ -7,8 +7,8 @@ categories:
 - blog 
 - wordpress
 - Photoshop
-img: post01.jpg
-thumb: thumb01.jpg
+img: post20151005.jpg
+thumb: thumb20151005.jpg
 ---
 
 I am a long distance runner and keen to participate in the Tokyo Marathon in 2016. When registrering online, I found it quite difficult to navigate through the website, and the web design was quite outdated. So I have re-designed the site as my own practice. <!--more-->
@@ -18,14 +18,14 @@ I am a long distance runner and keen to participate in the Tokyo Marathon in 201
 <br/>
 
 <div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/assets/img/design/mockup01.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/assets/img/design/mockup02.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/assets/img/design/mockup03.jpg" alt="" title="example image"/>
+	<img class="col one" src="{{ site.baseurl }}/assets/img/blog/2015-10-06/mockup01.jpg" alt="" title="example image"/>
+	<img class="col one" src="{{ site.baseurl }}/assets/img/blog/2015-10-06/mockup02.jpg" alt="" title="example image"/>
+	<img class="col one" src="{{ site.baseurl }}/assets/img/blog/2015-10-06/mockup03.jpg" alt="" title="example image"/>
 </div>
 <div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/assets/img/design/mockup04.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/assets/img/design/mockup05.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/assets/img/design/mockup06.jpg" alt="" title="example image"/>
+	<img class="col one" src="{{ site.baseurl }}/assets/img/blog/2015-10-06/mockup04.jpg" alt="" title="example image"/>
+	<img class="col one" src="{{ site.baseurl }}/assets/img/blog/2015-10-06/mockup05.jpg" alt="" title="example image"/>
+	<img class="col one" src="{{ site.baseurl }}/assets/img/blog/2015-10-06/mockup06.jpg" alt="" title="example image"/>
 </div>
 <div class="col three caption">
 	Mockup with paper and pencil help build prototypes rapidly.
@@ -38,7 +38,7 @@ Low fidelity mockup is essential in the initial design stage. This allows me to 
 <br/>
 
 <div>
-	<img class="col three" src="{{ site.baseurl }}/assets/img/design/tokyo-marathon-wireframing.png" alt="" title="example image"/>
+	<img class="col three" src="{{ site.baseurl }}/assets/img/blog/2015-10-06/tokyo-marathon-wireframing.png" alt="" title="example image"/>
 </div>
 <div class="col three caption">
 	Wireframing with Ominigraffle
@@ -56,7 +56,7 @@ The earlier actual content is introduced, the better prototyping we could have.
 Photoshop, Illustrator and Sketch are popular mockup tools among designers. They are very powerful and allows me to adjust the content position pixel by pixel, and the tiniest difference between two colors. They are so powerful with so many functions that it is time consuming to use. Also, it takes further efforts for further editting and modification. 
 
 <div>
-	<img class="col three" src="{{ site.baseurl }}/assets/img/design/tokyo-marathon-web.jpg" alt="" title="example image"/>
+	<img class="col three" src="{{ site.baseurl }}/assets/img/blog/2015-10-06/tokyo-marathon-web.jpg" alt="" title="example image"/>
 </div>
 <div class="col three caption">
 	Mocup for Tokyo Marathon 2016 with Photoshop
@@ -71,7 +71,7 @@ ALternatively, lots of other applications like <a href="http://foundation.zurb.c
 inVision helps build rapid high-fidelity mockup. After uploading the design files, I quickly added animations, gestures and transitions so the static Photoshop design is transformed into clickable and interactive prototypes.
 
 <div>
-	<img class="col three" src="{{ site.baseurl }}/assets/img/design/marathon-invision.png" alt="" title="example image"/>
+	<img class="col three" src="{{ site.baseurl }}/assets/img/blog/2015-10-06/marathon-invision.png" alt="" title="example image"/>
 </div>
 
 <div class="col three caption">

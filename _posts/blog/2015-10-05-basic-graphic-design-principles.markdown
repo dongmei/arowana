@@ -6,8 +6,8 @@ author: Dongmei Hu
 categories:
 - blog
 - Design
-img: post03.jpg
-thumb: thumb03.jpg
+img: post20151005.jpg
+thumb: thumb20151005.jpg
 ---
 
 How does the structure of a picture affect our emotional responses? ?? principles could be used to illsutrate the basic ideas underlying graphic design. <!--more-->
@@ -17,9 +17,9 @@ How does the structure of a picture affect our emotional responses? ?? principle
 <br/>
 
 <div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/assets/img/design/mockup01.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/assets/img/design/mockup02.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/assets/img/design/mockup03.jpg" alt="" title="example image"/>
+	<img class="col one" src="{{ site.baseurl }}/assets/img/blog/2015-10-05/mockup01.jpg" alt="" title="example image"/>
+	<img class="col one" src="{{ site.baseurl }}/assets/img/blog/2015-10-05/mockup02.jpg" alt="" title="example image"/>
+	<img class="col one" src="{{ site.baseurl }}/assets/img/blog/2015-10-05/mockup03.jpg" alt="" title="example image"/>
 </div>
 
 <div class="col three caption">
@@ -33,9 +33,9 @@ How does the structure of a picture affect our emotional responses? ?? principle
 <br/>
 
 <div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/assets/img/design/mockup01.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/assets/img/design/mockup02.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/assets/mg/design/mockup03.jpg" alt="" title="example image"/>
+	<img class="col one" src="{{ site.baseurl }}/assets/img/blog/2015-10-05/mockup01.jpg" alt="" title="example image"/>
+	<img class="col one" src="{{ site.baseurl }}/assets/img/blog/2015-10-05/mockup02.jpg" alt="" title="example image"/>
+	<img class="col one" src="{{ site.baseurl }}/assets/mg/blog/2015-10-05/mockup03.jpg" alt="" title="example image"/>
 </div>
 
 <div class="col three caption">
@@ -49,9 +49,9 @@ How does the structure of a picture affect our emotional responses? ?? principle
 <br/>
 
 <div class="img_row">
-	<img class="col one" src="{{ site.baseurl }}/assets/img/design/mockup01.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/assets/img/design/mockup02.jpg" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/assets/img/design/mockup03.jpg" alt="" title="example image"/>
+	<img class="col one" src="{{ site.baseurl }}/assets/img/blog/2015-10-05/mockup01.jpg" alt="" title="example image"/>
+	<img class="col one" src="{{ site.baseurl }}/assets/img/blog/2015-10-05/mockup02.jpg" alt="" title="example image"/>
+	<img class="col one" src="{{ site.baseurl }}/assets/img/blog/2015-10-05/mockup03.jpg" alt="" title="example image"/>
 </div>
 
 <div class="col three caption">

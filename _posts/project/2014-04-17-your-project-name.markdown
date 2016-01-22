@@ -5,6 +5,7 @@ date:   2014-04-25 16:54:46
 author: Marcel Newman
 categories:
 - project
+tagged: Web, Interaction Design, Illustration
 img: portfolio_08.jpg
 thumb: thumb02.jpg
 carousel:
@@ -12,6 +13,7 @@ carousel:
 - single02.jpg
 - single03.jpg
 tagged: Flat, UI, Development
+description: this is about a redesign of website-03
 client: Wonder Corp.
 website: http://blacktie.co
 ---
