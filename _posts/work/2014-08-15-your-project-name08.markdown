@@ -6,5 +6,6 @@ author: Marcel Newman
 categories:
 - work
 img: work_08.jpg
+subjects: hello world
 ---
 To get to the other side.

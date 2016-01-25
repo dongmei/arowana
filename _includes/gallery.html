@@ -1,4 +1,4 @@
-<div id="portfoliowrap">
+<!-- <div id="portfoliowrap">
     <div class="portfolio-centered">
         {% if include.title %}<h3>{{ include.title }}</h3>{% endif %}
         <div class="recentitems portfolio">
@@ -11,11 +11,70 @@
                                 <h3 class="a1" data-animate="fadeInDown">{{ work.title }}</h3>
                                 <a data-rel="prettyPhoto" href="{{ "/assets/img/work/" | prepend: site.baseurl }}{{ work.img }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-search"></i></a>
                                 <a href="{{  work.url | prepend: site.baseurl }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-link"></i></a>
-                            </div><!-- he bg -->
-                        </div><!-- he view -->		
-                    </div><!-- he wrap -->
-                </div><!-- end col-12 -->
+                            </div><!-- he bg 
+                        </div><!-- he view 	
+                    </div><!-- he wrap 
+                </div><!-- end col-12 
             {% endfor %}
-        </div><!-- portfolio -->
-    </div><!-- portfolio container -->
-</div><!--/Portfoliowrap -->
+        </div><!-- portfolio 
+    </div><!-- portfolio container 
+</div>/Portfoliowrap -->
+
+
+
+<div class="portfolioFilter">
+
+    <a href="#" data-filter="*" class="current">All Categories</a>
+    <a href="#" data-filter=".hello">Hello</a>
+    <a href="#" data-filter=".world">World</a>
+    <a href="#" data-filter=".world2">World2</a>
+    <a href="#" data-filter=".objects">Objects</a>
+
+</div>
+
+
+
+<div class="portfolioContainer">
+     {% for work in site.categories['work'] limit:include.limit %}
+               <div class="{{ work.subjects }}">
+                   <img src="/assets/img/work/{{work.img}}" alt="image">
+                </div>
+    {% endfor %}
+</div>
+
+<!-- <div class="portfolioContainer">
+
+    <div class="objects">
+        <img src="/assets/img/work/work_05.jpg" alt="image">
+    </div>
+    
+    <div class="people places">
+        <img src="/assets/img/work/work_02.jpg" alt="image">
+    </div>  
+
+    <div class="food">
+        <img src="/assets/img/work/work_03.jpg" alt="image">
+    </div>
+    
+    <div class="people places">
+        <img src="/assets/img/work/work_04.jpg" alt="image">
+    </div>
+
+    <div class="places objects">
+        <img src="/assets/img/work/work_05.jpg" alt="image">
+    </div>
+
+    <div class="people food objects">
+        <img src="/assets/img/work/work_06.jpg" alt="image">
+    </div>
+
+    <div class="food objects">
+        <img src="/assets/img/work/work_07.jpg" alt="image">
+    </div>  
+    
+    <div class="food">
+        <img src="/assets/img/work/work_08.jpg" alt="image">
+    </div>  
+    
+</div> -->
+
