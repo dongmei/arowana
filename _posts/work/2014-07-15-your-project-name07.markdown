@@ -6,5 +6,6 @@ author: Marcel Newman
 categories:
 - work
 img: work_07.jpg
+subjects: illustration
 ---
 To get to the other side.

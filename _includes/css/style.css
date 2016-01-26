@@ -9,6 +9,7 @@
 	
 ################################################################# */ 
 @import url(http://fonts.googleapis.com/css?family=Raleway:400,700,900);
+@import url(http://fonts.googleapis.com/css?family=Merriweather:400,300,400italic,700);
 @import url(http://fonts.googleapis.com/css?family=Lato:400,900);
 @import url("prettyPhoto.css") screen;
 @import url("hoverex-all.css") screen;
@@ -25,9 +26,11 @@ body {
 	background: #ffffff; 
 	margin: 0; 
 	height: 100%; 
+	font-family: 'Merriweather', serif;
+	font-size: 18px;
+	font-weight: 100;
+	line-height: 1.71428571;
 	color: {{ site.colors.secondary }};
-	font-family: 'Lato', sans-serif;
-	font-weight: 400;
 	}
 
 h1, h2, h3, h4, h5, h6 {
@@ -38,10 +41,10 @@ h1, h2, h3, h4, h5, h6 {
 p { 
 	padding: 0; 
 	margin-bottom: 12px; 
-	font-family: 'Lato', sans-serif;
-	font-weight: 400;
-	font-size: 14px; 
-	line-height: 24px;
+	font-family: 'Merriweather', serif;
+	/*font-weight: 400;*/
+	/*font-size: 16px; */
+	/*line-height: 24px;*/
 	color: {{ site.colors.secondary }}; 
 	margin-top: 10px; 
 }
@@ -100,21 +103,23 @@ a:focus {
 	min-height: 70px;
 	padding-top: 10px;
 	margin-bottom: 0px;
+	opacity: 0.75;
 }
 
 .navbar-brand {
 	font-family: 'Raleway', sans-serif;
-	font-weight: 900;
+	/*font-weight: 900;*/
 }
 
 .navbar-header .navbar-brand {
-	color: white;
+	color: rgba(0,0,0,0.75);
 }
 
 .navbar-default .navbar-nav > li > a {
-	color: white;
-	font-weight: 700;
+	color: rgba(0,0,0,0.75);
+	font-weight: 600;
 	font-size: 12px;
+	font-family: 'Raleway', sans-serif;
 }
 
 .navbar-default .navbar-nav > li > a:hover {
@@ -122,12 +127,14 @@ a:focus {
 }
 
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
-	color: {{ site.colors.primary }};
+	/*color: {{ site.colors.primary }};*/
+	font-weight: 900;
 	background-color: transparent;
+	border-bottom: 2px rgba(0,0,0,0.75) solid;
 }
 
 .navbar-default {
-	background-color: {{ site.colors.secondary }};
+	background-color: {{ site.colors.grey-color-light }};
 	border-color: transparent;
 }
 
@@ -136,7 +143,7 @@ a:focus {
 }
 
 .dropdown-menu > li > a {
-	color: white;
+	color: rgba(0,0,0,0.8);
 	font-weight: 700;
 	font-size: 12px;
 }
@@ -208,7 +215,7 @@ a:focus {
 }
 
 .hline-w {
-	border-bottom: 2px solid #ffffff;
+	border-bottom: 2px solid rgba(255,255,255,.6);
 	margin-bottom: 25px;
 }
 
@@ -470,15 +477,16 @@ a:focus {
 /* General Tweaks */
 
 #blue {
-	background: {{ site.colors.primary }};
+	background: #fff;
 	margin-top: 60px;
 	margin-bottom: 60px;
 	padding-top: 25px;
 	padding-bottom: 25px;
 }
 
-#blue h3 {
-	color: white;
+#blue h1 {
+	color: {{ site.colors.primary }};
+	opacity: .75;
 	margin-left: 15px;
 }
 
@@ -505,7 +513,7 @@ a:focus {
 }
 
 .ctitle {
-	color: {{ site.colors.primary }};
+	color: #000;
 	font-weight: 700;
 	margin-bottom: 15px;
 }
@@ -515,10 +523,40 @@ csmall {
 	color: #b3b3b3;
 }
 
+.postMeta-previewFooterReadMore {
+    padding-bottom: 10px;
+}
+
+.button--smaller.button--chromeless {
+    padding: 0;
+    line-height: inherit;
+    height: inherit;
+}
+
+.button--smaller {
+    height: 25px;
+    line-height: 23px;
+    padding: 0 6px;
+    font-size: 12px;
+}
+
+.button--chromeless {
+    border-radius: 0;
+    box-shadow: none;
+    height: auto;
+    line-height: inherit;
+    border-width: 0;
+    padding: 0;
+    vertical-align: baseline;
+    color: rgba(0,0,0,0.3);
+    white-space: normal;
+}
+
 .spacing {
 	margin-top: 40px;
 	margin-bottom: 40px;
 }
+
 
 .badge-theme {
 	background: {{ site.colors.primary }};
@@ -639,7 +677,7 @@ a.anchor{
     width: 1px;
     height: 75px;
     margin-left: 35px;
-    background-color: #{{ site.color.secondary }};
+    background-color: {{ site.colors.secondary }};
     -webkit-transform: rotate(45deg);
     -ms-transform: rotate(45deg);
     transform: rotate(45deg);
@@ -649,7 +687,7 @@ a.anchor{
     z-index: 1052;
     width: 1px;
     height: 75px;
-    background-color: #{{ site.color.secondary }};
+    background-color: {{ site.colors.secondary }};
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
@@ -662,6 +700,103 @@ a.anchor{
 }
 
 .portfolioFilter a.current { 
-    font-weight:bold;
+    color: {{ site.colors.primary }};
+    /*font-weight: bold;*/
 }
 
+
+
+/* -  Post Body - */
+.post-body {
+  padding-bottom: 72px;
+  margin-bottom: 72px;
+}
+.post-template .post-body {
+  padding-bottom: 36px;
+  margin-bottom: 24px;
+}
+.post-body img {
+  max-width: 100%;
+  margin-bottom: 24px;
+}
+.post-body a {
+  border-bottom: 1px dotted;
+}
+.page-body img {
+  max-width: 100%;
+  margin-bottom: 24px;
+  border-radius: 5px;
+}
+
+
+.more-link {
+    line-height: 18px;
+    font-size: 18px;
+    font-style: italic;
+}
+
+body {
+    -webkit-font-smoothing: antialiased;
+}
+
+
+/*	################################################################
+	Forms for contact
+################################################################# */
+/* By HDM*/
+
+.floating-label-form-group {
+    position: relative;
+    margin-bottom: 0;
+    padding-bottom: .5em;
+    border-bottom: 1px solid #eee;
+}
+
+.floating-label-form-group input,
+.floating-label-form-group textarea {
+    z-index: 1;
+    position: relative;
+    padding-right: 0;
+    padding-left: 0;
+    border: 0;
+    border-radius: 0;
+    font-size: 16px;
+    background: 0 0;
+    box-shadow: none!important;
+    resize: none;
+}
+
+.floating-label-form-group label {
+    display: block;
+    z-index: 0;
+    position: relative;
+    top: 2em;
+    margin: 0;
+    font-size: .85em;
+    line-height: 1.764705882em;
+    vertical-align: middle;
+    vertical-align: baseline;
+    opacity: 0;
+    -webkit-transition: top .3s ease,opacity .3s ease;
+    -moz-transition: top .3s ease,opacity .3s ease;
+    -ms-transition: top .3s ease,opacity .3s ease;
+    transition: top .3s ease,opacity .3s ease;
+}
+
+.floating-label-form-group::not(:first-child) {
+    padding-left: 14px;
+    border-left: 1px solid #eee;
+}
+
+.floating-label-form-group-with-value label {
+    top: 0;
+    opacity: 1;
+}
+
+.floating-label-form-group-with-focus label {
+    color: #{{ site.color.primary }};
+}
+
+form .row:first-child .floating-label-form-group {
+    border-top: 1px solid #eee;
+}

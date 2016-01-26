@@ -1,38 +1,13 @@
-<!-- <div id="portfoliowrap">
-    <div class="portfolio-centered">
-        {% if include.title %}<h3>{{ include.title }}</h3>{% endif %}
-        <div class="recentitems portfolio">
-            {% for work in site.categories['work'] limit:include.limit %}
-                <div class="portfolio-item graphic-design">
-                    <div class="he-wrap tpl6">
-                    <img src="{{ "/assets/img/work/" | prepend: site.baseurl }}{{ work.img }}" alt="">
-                        <div class="he-view">
-                            <div class="bg a0" data-animate="fadeIn">
-                                <h3 class="a1" data-animate="fadeInDown">{{ work.title }}</h3>
-                                <a data-rel="prettyPhoto" href="{{ "/assets/img/work/" | prepend: site.baseurl }}{{ work.img }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-search"></i></a>
-                                <a href="{{  work.url | prepend: site.baseurl }}" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-link"></i></a>
-                            </div><!-- he bg 
-                        </div><!-- he view 	
-                    </div><!-- he wrap 
-                </div><!-- end col-12 
-            {% endfor %}
-        </div><!-- portfolio 
-    </div><!-- portfolio container 
-</div>/Portfoliowrap -->
 
 
-
-<div class="portfolioFilter">
-
-    <a href="#" data-filter="*" class="current">All Categories</a>
-    <a href="#" data-filter=".hello">Hello</a>
-    <a href="#" data-filter=".world">World</a>
-    <a href="#" data-filter=".world2">World2</a>
-    <a href="#" data-filter=".objects">Objects</a>
-
+<div class="portfolioFilter text-center">
+    <a href="#" data-filter="*" class="current">All</a>
+    <a href="#" data-filter=".website">Website</a>
+    <a href="#" data-filter=".sketchbook">Sketchbook</a>
+    <a href="#" data-filter=".illustration">Illustration</a>
 </div>
 
-
+<br>
 
 <div class="portfolioContainer">
      {% for work in site.categories['work'] limit:include.limit %}

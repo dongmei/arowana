@@ -2,13 +2,15 @@
 layout: blog
 title: Blog
 permalink: /blog/
+subtitle: What I'm writing
 ---
 
 <div class="container mtb">
-    <div class="row">
+    <div class="row text-center">
+            <!-- <div class="hline"></div> -->
 
         <!-- BLOG POSTS LIST -->
-        <div class="col-lg-8">
+        <div class="col-lg-8 col-lg-offset-2">
 
             {% for post in site.categories['blog'] %}
                 <!-- //Blog Post -->
@@ -18,15 +20,19 @@ permalink: /blog/
                 <a href="{{ post.url | prepend: site.baseurl }}"><h3 class="ctitle">{{ post.title }}</h3></a>
                 <p><csmall>{{ post.date | date: "%b %-d, %Y" }}</csmall></p>
                 {{ post.excerpt }}
-                <p><a href="{{ post.url | prepend: site.baseurl }}">[Read More]</a></p>
-                <div class="hline"></div>
+
+                <div class="postMeta-previewFooterReadMore">
+                <a class="button--chromeless button--smaller" href="{{ post.url | prepend: site.baseurl }}">Read More</a>
+                </div>
+
+                <!-- <div class="hline"></div> -->
+                <hr>
 
                 <div class="spacing"></div>
             {% endfor %}
 
         </div><!-- //col-lg-8 --> 
 
-        {% include sidebar.html %}
 
     </div><!-- <! //row --> 
 </div><!-- <! //container --> 
