@@ -5,7 +5,7 @@ date:   2014-04-25 16:54:46
 author: Marcel Newman
 categories:
 - work
-img: work_09.jpg
-subjects: website
+img: 20150825-SGP-tshirt-design.jpg
+subjects: illustration digital print
 ---
 To get to the other side.

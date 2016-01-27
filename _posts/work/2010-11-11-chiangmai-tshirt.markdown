@@ -5,7 +5,7 @@ date:   2014-04-25 16:54:46
 author: Marcel Newman
 categories:
 - work
-img: work_04.jpg
-subjects: sketchbook
+img: 20101111-chiangmai-tshirt.jpg
+subjects: print
 ---
 To get to the other side.

@@ -5,7 +5,7 @@ date:   2014-04-25 16:54:46
 author: Marcel Newman
 categories:
 - work
-img: work_06.jpg
-subjects: sketchook
+img: 20091123-cebu-tshirt.jpg
+subjects: print
 ---
 To get to the other side.

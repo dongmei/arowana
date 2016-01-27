@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Fogg’s Behaviour Model and Product Design"
+date: 2015-11-27 21:59:21
 author: Dongmei Hu
 categories: 
 - blog
-- Web-Design
-- Development
-img: post02.jpg
-thumb: thumb02.jpg
+- UX
+img: post20151127.jpg
+thumb: thumb20151127.jpg
 ---
 
 BJ Fogg from Stamford University developed the Fogg Behaviour Model a few years back, which takes a closer look at how technology can be used to change what people think and do. It provides a systematic way to analyse and understand how companies such as Facebook, twitter and Instagram become a successful stories by understanding people’s needs and ultimately changed their behaviours. <!--more-->
@@ -20,7 +20,7 @@ B=M.A.T
 
 where B is behaviour, M is motivation, A is ability and T is trigger. So, user behaviour is a combined result of motivation, ability and trigger at the same time. It is further illustrated in the below diagram:
 
-<img src="{{ site.baseurl }}/assets/img/blog/fogg_behavior_model_01.png" width="100%">
+<img src="{{ site.baseurl }}/assets/img/blog/2015-11-27/fogg_behavior_model_01.png" width="100%">
 
 There are a few key insights that have stroked me and explained some common misunderstanding in product design and user analysis:
 

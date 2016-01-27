@@ -5,9 +5,9 @@ date:   2015-10-28 21:12:46
 author: Dongmei Hu
 categories: 
 - blog
-- Web-Design
-- Development
-img: post02.jpg
+- Typography
+- Graphic Design
+img: post20151028.jpg
 thumb: thumb02.jpg
 ---
 
@@ -17,20 +17,20 @@ This is a study note to summarise some basic typography, after taking the course
 In order to communicate with graphic designers, first we need to learn about the terminology to have a common language.
 
 
-<img src="{{ site.baseurl }}/assets/img/blog/anatomy-1.png" width="100%">
-<img src="{{ site.baseurl }}/assets/img/blog/anatomy-2.png" width="100%">
-<img src="{{ site.baseurl }}assets/img/blog/word.png" width="100%">
+<img src="{{ site.baseurl }}/assets/img/blog/2015-10-28/anatomy-1.png" width="100%">
+<img src="{{ site.baseurl }}/assets/img/blog/2015-10-28/anatomy-2.png" width="100%">
+<img src="{{ site.baseurl }}assets/img/blog/2015-10-28/word.png" width="100%">
 
 
 <h3> How to choose the right size?</h3>
     
 The Point System is used to measure and represent the type size. 1pt equals to 1/72 in, roughly 0.35mm. In the old days for printing, the type was actually set on metal and that metal was used on a printing press to print letter forms. So each letter form was a raised piece of type and it had a body behind it and had a solid piece of metal behind it. The block of lead behind the type , and the body would have  a uniform size so that the type could be lined up on a press in order to print it.
 
-<img src="{{ site.baseurl }}/assets/img/blog/type-size.png" width="100%">
+<img src="{{ site.baseurl }}/assets/img/blog/2015-10-28/type-size.png" width="100%">
 
 Then the question comes, how to choose the right size, or point? Below is a thumb of rule for choosing Headlines/Subheads/Body Text/Footnotes in printing, and still serves as a good guideline for digital applications.  
 
-<img src="{{ site.baseurl }}/assets/img/blog/point-system.png" width="100%">
+<img src="{{ site.baseurl }}/assets/img/blog/2015-10-28/point-system.png" width="100%">
 
 <br>
 <h3> How to choose a typeface?</h3>
@@ -50,8 +50,8 @@ There are hundreds of discussions and online posts talking about which one to us
  
 
 Serif can be further categorised into the following subgroups:
-<img src="{{ site.baseurl }}/assets/img/blog/serif.png" width="100%">
+<img src="{{ site.baseurl }}/assets/img/blog/2015-10-28/serif.png" width="100%">
 
 San Serif:
-<img src="{{ site.baseurl }}/assets/img/blog/san-serif.png" width="100%">
+<img src="{{ site.baseurl }}/assets/img/blog/2015-10-28/san-serif.png" width="100%">
 

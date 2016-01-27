@@ -1,55 +1,21 @@
 
 
-<div class="portfolioFilter text-center">
+<div class="galleryFilter text-center">
     <a href="#" data-filter="*" class="current">All</a>
     <a href="#" data-filter=".website">Website</a>
     <a href="#" data-filter=".sketchbook">Sketchbook</a>
     <a href="#" data-filter=".illustration">Illustration</a>
+    <a href="#" data-filter=".digital">Digital</a>
+    <a href="#" data-filter=".print">Print</a>
 </div>
 
 <br>
 
+
 <div class="portfolioContainer">
      {% for work in site.categories['work'] limit:include.limit %}
-               <div class="{{ work.subjects }}">
+               <div class="{{ work.subjects }} col-lg-4 galleryitem">
                    <img src="/assets/img/work/{{work.img}}" alt="image">
                 </div>
     {% endfor %}
 </div>
-
-<!-- <div class="portfolioContainer">
-
-    <div class="objects">
-        <img src="/assets/img/work/work_05.jpg" alt="image">
-    </div>
-    
-    <div class="people places">
-        <img src="/assets/img/work/work_02.jpg" alt="image">
-    </div>  
-
-    <div class="food">
-        <img src="/assets/img/work/work_03.jpg" alt="image">
-    </div>
-    
-    <div class="people places">
-        <img src="/assets/img/work/work_04.jpg" alt="image">
-    </div>
-
-    <div class="places objects">
-        <img src="/assets/img/work/work_05.jpg" alt="image">
-    </div>
-
-    <div class="people food objects">
-        <img src="/assets/img/work/work_06.jpg" alt="image">
-    </div>
-
-    <div class="food objects">
-        <img src="/assets/img/work/work_07.jpg" alt="image">
-    </div>  
-    
-    <div class="food">
-        <img src="/assets/img/work/work_08.jpg" alt="image">
-    </div>  
-    
-</div> -->
-

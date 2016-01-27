@@ -5,7 +5,7 @@ date:   2014-04-25 16:54:46
 author: Marcel Newman
 categories:
 - work
-img: work_08.jpg
-subjects: sketchbook
+img: 20090222-color-bull.jpg
+subjects: digital illustration
 ---
 To get to the other side.

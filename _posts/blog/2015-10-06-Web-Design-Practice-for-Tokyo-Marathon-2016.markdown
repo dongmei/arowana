@@ -5,10 +5,10 @@ date: 2015-10-06 21:59:21
 author: Dongmei Hu
 categories: 
 - blog 
-- wordpress
-- Photoshop
-img: post20151005.jpg
-thumb: thumb20151005.jpg
+- Website
+- test 2
+img: post20151006.jpg
+thumb: thumb20151006.jpg
 ---
 
 I am a long distance runner and keen to participate in the Tokyo Marathon in 2016. When registrering online, I found it quite difficult to navigate through the website, and the web design was quite outdated. So I have re-designed the site as my own practice. <!--more-->

@@ -5,7 +5,7 @@ date:   2014-04-25 16:54:46
 author: Marcel Newman
 categories:
 - work
-img: work_10.jpg
-subjects: sketchbook
+img: 20100716-rotaract-tshirt.jpg
+subjects: print
 ---
 To get to the other side.

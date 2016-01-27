@@ -103,6 +103,10 @@
 
 <script type="text/javascript">
 
+
+/*	################################################################
+	JavaScript Isotope to filter gallery works by category
+################################################################# */
 $(window).load(function(){
     var $container = $('.portfolioContainer');
     $container.isotope({
@@ -114,8 +118,8 @@ $(window).load(function(){
         }
     });
  
-    $('.portfolioFilter a').click(function(){
-        $('.portfolioFilter .current').removeClass('current');
+    $('.galleryFilter a').click(function(){
+        $('.galleryFilter .current').removeClass('current');
         $(this).addClass('current');
  
         var selector = $(this).attr('data-filter');

@@ -6,7 +6,6 @@ author: Marcel Newman
 categories:
 - project
 tagged: Web, Interaction Design, Illustration
-tag2: peaple place
 img: portfolio_09.jpg
 thumb: thumb02.jpg
 carousel:

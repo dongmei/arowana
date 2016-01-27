@@ -6,16 +6,16 @@ subtitle: What I'm writing
 ---
 
 <div class="container mtb">
-    <div class="row text-center">
+    <div class="row">
             <!-- <div class="hline"></div> -->
 
         <!-- BLOG POSTS LIST -->
-        <div class="col-lg-8 col-lg-offset-2">
+        <div class="col-lg-8">
 
             {% for post in site.categories['blog'] %}
                 <!-- //Blog Post -->
                 <a href="{{ post.url | prepend: site.baseurl }}">
-                    <img class="img-responsive" src="{{ "/assets/img/blog/" | prepend: site.baseurl }}{{ post.img }}">
+                    <img class="img-responsive" src="{{ "/assets/img/blog/posts/" | prepend: site.baseurl }}{{ post.img }}">
                 </a>    
                 <a href="{{ post.url | prepend: site.baseurl }}"><h3 class="ctitle">{{ post.title }}</h3></a>
                 <p><csmall>{{ post.date | date: "%b %-d, %Y" }}</csmall></p>
@@ -33,6 +33,7 @@ subtitle: What I'm writing
 
         </div><!-- //col-lg-8 --> 
 
+        {% include sidebar.html %}
 
     </div><!-- <! //row --> 
 </div><!-- <! //container --> 

@@ -6,6 +6,7 @@ author: Dongmei Hu
 categories:
 - blog
 - Design
+- test1
 img: post20151005.jpg
 thumb: thumb20151005.jpg
 ---
@@ -13,7 +14,7 @@ thumb: thumb20151005.jpg
 How does the structure of a picture affect our emotional responses? ?? principles could be used to illsutrate the basic ideas underlying graphic design. <!--more-->
 
 <br/>
-<h4> Directions of shapes affect our responses </h4>
+<h4> #1. Directions of shapes affect our responses </h4>
 <br/>
 
 <div class="img_row">
@@ -29,7 +30,7 @@ How does the structure of a picture affect our emotional responses? ?? principle
 &nbsp;
 
 <br/>
-<h4> Locations of shapes affect our responses </h4>
+<h4> #2. Locations of shapes affect our responses </h4>
 <br/>
 
 <div class="img_row">
@@ -45,7 +46,7 @@ How does the structure of a picture affect our emotional responses? ?? principle
 &nbsp;
 
 <br/>
-<h4> Colors of shapes affect our responses </h4>
+<h4> #3. Colors of shapes affect our responses </h4>
 <br/>
 
 <div class="img_row">

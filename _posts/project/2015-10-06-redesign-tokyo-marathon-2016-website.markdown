@@ -1,21 +1,21 @@
 ---
 layout: project
-title:  "Redesign Tokyo Marathon 2016 Website"
+title:  "Redesign of Tokyo Marathon Website"
 date:   2015-10-06 16:54:46
 author: Marcel Newman
 categories:
 - project
 tagged: Web,
-img: portfolio_10.jpg
+img: portfolio_2015-10-06.png
 thumb: thumb02.jpg
 carousel:
 - single01.jpg
 - single02.jpg
 - single03.jpg
-tagged: Flat, UI, Development
-description: this is about a redesign of website-01
-client: Wonder Corp.
-website: http://blacktie.co
+tagged: Website, Prototype, UI
+description: As an exploration in prototyping and website design, I have been working on the redesign of the website for Tokyo Marathon. Thoroughly challenging thinking through the wireframing and prototyping but ultimately rewarding.
+client: 
+website: 
 ---
 <div class="img_row">
     <img class="col one" src="{{ site.baseurl }}/assets/img/blog/2015-10-06/mockup01.jpg" alt="" title="example image"/>    

@@ -255,6 +255,10 @@ a:focus {
 	margin: 0 auto;
 }
 
+.postimg{
+	max-width: 750px;
+}
+
 /* Services Wrap */
 #service {
 	margin-top: 0px;
@@ -633,77 +637,118 @@ a.anchor{
 	Modals for gallery
 ################################################################# */
 /* By HDM*/
-
-.portfolio-modal .modal-content {
-    padding: 100px 0;
-    min-height: 100%;
-    border: 0;
-    border-radius: 0;
-    text-align: center;
-    background-clip: border-box;
-    -webkit-box-shadow: none;
-    box-shadow: none;
-}
-
-.portfolio-modal .modal-content h2 {
-    margin: 0;
-    font-size: 3em;
-}
-
-.portfolio-modal .modal-content img {
-    margin-bottom: 30px;
-}
-
-.portfolio-modal .modal-content .item-details {
-    margin: 30px 0;
-}
-
-.portfolio-modal .close-modal {
-    position: absolute;
-    top: 25px;
-    right: 25px;
-    width: 75px;
-    height: 75px;
-    background-color: transparent;
-    cursor: pointer;
-}
-
-.portfolio-modal .close-modal:hover {
-    opacity: .3;
-}
-
-.portfolio-modal .close-modal .lr {
-    z-index: 1051;
-    width: 1px;
-    height: 75px;
-    margin-left: 35px;
-    background-color: {{ site.colors.secondary }};
-    -webkit-transform: rotate(45deg);
-    -ms-transform: rotate(45deg);
-    transform: rotate(45deg);
-}
-
-.portfolio-modal .close-modal .lr .rl {
-    z-index: 1052;
-    width: 1px;
-    height: 75px;
-    background-color: {{ site.colors.secondary }};
-    -webkit-transform: rotate(90deg);
-    -ms-transform: rotate(90deg);
-    transform: rotate(90deg);
-}
-
-.portfolioFilter a { 
+.galleryFilter a { 
     margin-right: 10px; 
 	color:#666;
 	text-decoration:none;
 }
 
-.portfolioFilter a.current { 
+.galleryFilter a.current { 
     color: {{ site.colors.primary }};
-    /*font-weight: bold;*/
 }
 
+.galleryitem{
+	height: 500px;
+	display: block;
+}
+
+
+figure {
+    margin: 0;
+    *zoom: 1;
+}
+
+figure:before,figure:after {
+    display: table;
+    line-height: 0;
+    content: "";
+}
+
+figure:after {
+    clear: both;
+}
+
+figure img {
+    display: block;
+    margin-right: auto;
+    margin-bottom: 10px;
+    margin-left: auto;
+}
+
+figure a img {
+    filter: gray; /* IE6-9 */
+    -webkit-filter: brightness(100%); /* Google Chrome & Safari 6+ */
+    -webkit-transform: translate(0,0);
+    -moz-transform: translate(0,0);
+    -ms-transform: translate(0,0);
+    -o-transform: translate(0,0);
+    transform: translate(0,0);
+    -webkit-transition-duration: .25s;
+    -moz-transition-duration: .25s;
+    -o-transition-duration: .25s;
+}
+
+figure a img:hover {
+    filter: none;
+    -webkit-filter: brightness(130%);
+    -webkit-transform: translate(0,-5px);
+    -moz-transform: translate(0,-5px);
+    -ms-transform: translate(0,-5px);
+    -o-transform: translate(0,-5px);
+    transform: translate(0,-5px);
+    -webkit-box-shadow: 0 0 10px rgba(0,0,0,0.2);
+    -moz-box-shadow: 0 0 10px rgba(0,0,0,0.2);
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+
+@media only screen and (min-width:62.5em) {
+    figure.half img {
+        float: left;
+        width: 49%;
+        margin-right: 0.5%;
+        margin-left: 0.5%;
+    }
+
+    figure.half figcaption {
+        clear: left;
+    }
+}
+
+@media only screen and (min-width:62.5em) {
+    figure.third img {
+        float: left;
+        width: 32.3%;
+        margin-right: 0.5%;
+        margin-left: 0.5%;
+    }
+
+    figure.third figcaption {
+        clear: left;
+    }
+}
+
+@media only screen and (min-width:62.5em) {
+    figure.five img {
+        float: left;
+        width: 19.2%;
+        margin-right: 0.5%;
+        margin-left: 0.5%;
+    }
+
+    figure.five figcaption {
+        clear: left;
+    }
+}
+
+svg:not(:root) {
+    overflow: hidden;
+}
+figcaption {
+    padding-top: 10px;
+    text-align: center;
+    font-size: 14px;
+    font-style:italic;
+}
 
 
 /* -  Post Body - */
