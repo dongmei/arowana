@@ -6,7 +6,6 @@ author: Dongmei Hu
 categories: 
 - blog 
 - Website
-- test 2
 img: post20151006.jpg
 thumb: thumb20151006.jpg
 ---

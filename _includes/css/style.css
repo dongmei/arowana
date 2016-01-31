@@ -648,8 +648,9 @@ a.anchor{
 }
 
 .galleryitem{
-	height: 500px;
-	display: block;
+	/*height: 800px;*/
+	/*display: block;*/
+	margin-bottom: 10px;
 }
 
 
