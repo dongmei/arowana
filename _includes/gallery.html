@@ -2,7 +2,7 @@
 
 <div class="galleryFilter text-center">
     <a href="#" data-filter="*" class="current">All</a>
-    <a href="#" data-filter=".website">Website</a>
+    <!-- <a href="#" data-filter=".website">Website</a> -->
     <a href="#" data-filter=".sketchbook">Sketchbook</a>
     <a href="#" data-filter=".illustration">Illustration</a>
     <a href="#" data-filter=".digital">Digital</a>
@@ -14,7 +14,7 @@
 
 <div class="portfolioContainer">
      {% for work in site.categories['work'] limit:include.limit %}
-               <div class="{{ work.subjects }} col-lg-4 galleryitem">
+               <div class="{{ work.subjects }} col-lg-2 col-md-4 col-xs-12 galleryitem">
                    <img src="/assets/img/work/{{work.img}}" alt="image">
                 </div>
     {% endfor %}
