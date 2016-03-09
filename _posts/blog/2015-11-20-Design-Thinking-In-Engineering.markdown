@@ -1,17 +1,20 @@
 ---
 layout: post
-title: "Design Thinking In Engineering"
+title: "The Design Thinking In Engineering"
 date: 2015-11-20 20:45:00
 author: Dongmei Hu
 categories: 
 - blog
 - Design
-img: post20160119.jpg
+img: post20151120.jpg
 thumb: thumb20160119.jpg
 ---
 
+<blockquote>"All relevant design decision have been considered together and have been integrated into a whole by a well organized team empowered to fix priorities." 
+<br>
+- Sir Ove Arup, 1970 </blockquote><!--more-->
 
-Some have such a stereotype that design is only for people in the so-called creative field like advertisement, branding, interior design and so on. In other traditional fields, more specifically structure engineering and electrical engineering etc, there are only formulas and Code of Practise that is very stringent and a must to follow. Some people claims that, engineering is too boring and has no design at all. <!--more-->
+Some have such a stereotype that design is only for people in the so-called creative field like advertisement, branding, interior design and so on. In other traditional fields, more specifically structure engineering and electrical engineering etc, there are only formulas and Code of Practise that is very stringent and a must to follow. Some people claims that, engineering is too boring and has no design at all. 
 
 That is not true, at all. Design Thinking exists everywhere. 
 

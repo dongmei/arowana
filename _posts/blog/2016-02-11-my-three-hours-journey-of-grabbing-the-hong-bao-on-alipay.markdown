@@ -6,7 +6,6 @@ author: Dongmei Hu
 categories: 
 - blog 
 - UX
-tagged: UX
 img: post20160211.jpg
 thumb: thumb20151006.jpg
 ---
