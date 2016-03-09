@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Will Carousel be dead as a design trend in 2016?"
+title: "Will carousel be dead as a design trend in 2016?"
 date: 2016-03-08 21:59:21
 author: Dongmei Hu
 categories: 
