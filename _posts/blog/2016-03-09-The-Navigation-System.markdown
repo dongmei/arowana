@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A Brief Introduction to Navigation System In Information Architect"
+title: "The Navigation System In Information Architect"
 date: 2016-03-09 22:21:00
 author: Dongmei Hu
 categories: 
