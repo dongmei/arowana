@@ -20,6 +20,7 @@ colors:  #in hex code if not noted else
   link_hover: "#01b2fe"
   footer_heading: "#ffffff"
   footer_content: "#bfc9d3"
+  grey-color: "#9B9B9B"
   grey-color-light: lighten($grey-color, 40%);
   grey-color-dark:  darken($grey-color, 25%);
   
