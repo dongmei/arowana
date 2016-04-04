@@ -47,7 +47,7 @@ Tokyo Marathon is listed as Top 10 World’s Best Marathons, while the event web
 <div class="img_row">
 		<img class="col-xs-12 col-sm-6 col-md-4" src="{{ site.baseurl }}/assets/img/project/2015-10-07/Step1.jpg" alt="" title="Listed All Contents"/>
 		<img class="col-xs-12 col-sm-6 col-md-4" src="{{ site.baseurl }}/assets/img/project/2015-10-07/Step2.jpg" alt="" title="Listed All Contents"/>
-		<img class="col-xs-12 col-sm-6 col-md-4" src="{{ site.baseurl }}/assets/img/7roject/2015-10-07/Step3.jpg" alt="" title="Listed All Contents"/>
+		<img class="col-xs-12 col-sm-6 col-md-4" src="{{ site.baseurl }}/assets/img/project/2015-10-07/Step3.jpg" alt="" title="Listed All Contents"/>
 </div>
 
 
