@@ -45,17 +45,17 @@ Tokyo Marathon is listed as Top 10 World’s Best Marathons, while the event web
 </div>
 
 <div class="img_row">
-		<img class="col-xs-12 col-sm-6 col-md-4" src="{{ site.baseurl }}/assets/img/project/2015-10-07/Step1.jpg" alt="" title="Listed All Contents"/>
-		<img class="col-xs-12 col-sm-6 col-md-4" src="{{ site.baseurl }}/assets/img/project/2015-10-07/Step2.jpg" alt="" title="Listed All Contents"/>
-		<img class="col-xs-12 col-sm-6 col-md-4" src="{{ site.baseurl }}/assets/img/project/2015-10-07/Step3.jpg" alt="" title="Listed All Contents"/>
+		<img class="col-xs-12 col-sm-4 col-md-4" src="{{ site.baseurl }}/assets/img/project/2015-10-07/Step1.jpg" alt="" title="Listed All Contents"/>
+		<img class="col-xs-12 col-sm-4 col-md-4" src="{{ site.baseurl }}/assets/img/project/2015-10-07/Step2.jpg" alt="" title="Listed All Contents"/>
+		<img class="col-xs-12 col-sm-4 col-md-4" src="{{ site.baseurl }}/assets/img/project/2015-10-07/Step3.jpg" alt="" title="Listed All Contents"/>
 </div>
 
 
 <div class="row bottommargin">
 	<div class="img_row">
-		<img class="col-xs-12 col-sm-6 col-md-4" src="{{ site.baseurl }}/assets/img/project/2015-10-07/Sorting1.jpg" alt="" title="Listed All Contents"/>
-		<img class="col-xs-12 col-sm-6 col-md-4" src="{{ site.baseurl }}/assets/img/project/2015-10-07/Sorting2.jpg" alt="" title="Listed All Contents"/>
-		<img class="col-xs-12 col-sm-6 col-md-4" src="{{ site.baseurl }}/assets/img/project/2015-10-07/Sorting3.jpg" alt="" title="Listed All Contents"/>
+		<img class="col-xs-12 col-sm-4 col-md-4" src="{{ site.baseurl }}/assets/img/project/2015-10-07/Sorting1.jpg" alt="" title="Listed All Contents"/>
+		<img class="col-xs-12 col-sm-4 col-md-4" src="{{ site.baseurl }}/assets/img/project/2015-10-07/Sorting2.jpg" alt="" title="Listed All Contents"/>
+		<img class="col-xs-12 col-sm-4 col-md-4" src="{{ site.baseurl }}/assets/img/project/2015-10-07/Sorting3.jpg" alt="" title="Listed All Contents"/>
 	</div>
 </div>
 <br/>
@@ -86,9 +86,9 @@ Tokyo Marathon is listed as Top 10 World’s Best Marathons, while the event web
 
 <div class="row bottommargin">
 	<div class="img_row">
-		<img class="col-md-6 col-sm-4 col-xs-12" src="{{ site.baseurl }}/assets/img/project/2015-10-07/Layout0.jpg" alt="" title="Listed All Contents"/>
-		<img class="col-md-3 col-sm-2 col-xs-12" src="{{ site.baseurl }}/assets/img/project/2015-10-07/Layout3.jpg" alt="" title="Listed All Contents"/>
-		<img class="col-md-3 col-sm-2 col-xs-12" src="{{ site.baseurl }}/assets/img/project/2015-10-07/Layout5.jpg" alt="" title="Listed All Contents"/>
+		<img class="col-xs-12 col-sm-6 col-md-6" src="{{ site.baseurl }}/assets/img/project/2015-10-07/Layout0.jpg" alt="" title="Listed All Contents"/>
+		<img class="col-xs-12 col-sm-3 col-md-3" src="{{ site.baseurl }}/assets/img/project/2015-10-07/Layout3.jpg" alt="" title="Listed All Contents"/>
+		<img class="col-xs-12 col-sm-3 col-md-3" src="{{ site.baseurl }}/assets/img/project/2015-10-07/Layout5.jpg" alt="" title="Listed All Contents"/>
 	</div>
 </div>
 

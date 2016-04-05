@@ -25,9 +25,9 @@ Introducing the new generation journal app with mood tracker to help user keep a
 
 <div class="row bottommargin">
 	<div class="img_row">
-		<img class="col-xs-12 col-sm-6 col-md-4" src="{{ site.baseurl }}/assets/img/project/2016-03-10/question1.jpg" alt="" title="Listed All Contents"/>
-		<img class="col-xs-12 col-sm-6 col-md-4" src="{{ site.baseurl }}/assets/img/project/2016-03-10/question2.jpg" alt="" title="Listed All Contents"/>
-		<img class="col-xs-12 col-sm-6 col-md-4" src="{{ site.baseurl }}/assets/img/project/2016-03-10/question3.jpg" alt="" title="Listed All Contents"/>
+		<img class="col-xs-12 col-sm-4 col-md-4" src="{{ site.baseurl }}/assets/img/project/2016-03-10/question1.jpg" alt="" title="Listed All Contents"/>
+		<img class="col-xs-12 col-sm-4 col-md-4" src="{{ site.baseurl }}/assets/img/project/2016-03-10/question2.jpg" alt="" title="Listed All Contents"/>
+		<img class="col-xs-12 col-sm-4 col-md-4" src="{{ site.baseurl }}/assets/img/project/2016-03-10/question3.jpg" alt="" title="Listed All Contents"/>
 	</div>
 </div>
 
@@ -92,17 +92,17 @@ Introducing the new generation journal app with mood tracker to help user keep a
 <h2> CONCEPT MOCKUP </h2>
 <div class="row bottommargin">
 	<div class="img_row">
-		<img class="col-xs-12 col-sm-6 col-md-4" src="{{ site.baseurl }}/assets/img/project/2016-03-10/Launch.jpg" alt="" title="Concept Mockups"/>
-		<img class="col-xs-12 col-sm-6 col-md-4" src="{{ site.baseurl }}/assets/img/project/2016-03-10/Login-UI.jpg" alt="" title="Concept Mockups"/>
-		<img class="col-xs-12 col-sm-6 col-md-4" src="{{ site.baseurl }}/assets/img/project/2016-03-10/Timeline.jpg" alt="" title="Concept Mockups"/>
+		<img class="col-xs-12 col-sm-4 col-md-4" src="{{ site.baseurl }}/assets/img/project/2016-03-10/Launch.jpg" alt="" title="Concept Mockups"/>
+		<img class="col-xs-12 col-sm-4 col-md-4" src="{{ site.baseurl }}/assets/img/project/2016-03-10/Login-UI.jpg" alt="" title="Concept Mockups"/>
+		<img class="col-xs-12 col-sm-4 col-md-4" src="{{ site.baseurl }}/assets/img/project/2016-03-10/Timeline.jpg" alt="" title="Concept Mockups"/>
 	</div>
 </div>
 
 <div class="row bottommargin">
 	<div class="img_row">
-		<img class="col-xs-12 col-sm-6 col-md-4" src="{{ site.baseurl }}/assets/img/project/2016-03-10/View-Journal.jpg" alt="" title="Concept Mockups"/>
-		<img class="col-xs-12 col-sm-6 col-md-4" src="{{ site.baseurl }}/assets/img/project/2016-03-10/Menu.jpg" alt="" title="Concept Mockups"/>
-		<img class="col-xs-12 col-sm-6 col-md-4" src="{{ site.baseurl }}/assets/img/project/2016-03-10/Mood-Statistics-Mood.jpg" alt="" title="Concept Mockups"/>
+		<img class="col-xs-12 col-sm-4 col-md-4" src="{{ site.baseurl }}/assets/img/project/2016-03-10/View-Journal.jpg" alt="" title="Concept Mockups"/>
+		<img class="col-xs-12 col-sm-4 col-md-4" src="{{ site.baseurl }}/assets/img/project/2016-03-10/Menu.jpg" alt="" title="Concept Mockups"/>
+		<img class="col-xs-12 col-sm-4 col-md-4" src="{{ site.baseurl }}/assets/img/project/2016-03-10/Mood-Statistics-Mood.jpg" alt="" title="Concept Mockups"/>
 	</div>
 </div>
 
