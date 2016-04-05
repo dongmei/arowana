@@ -92,7 +92,7 @@ Introducing the new generation journal app with mood tracker to help user keep a
 <h2> CONCEPT MOCKUP </h2>
 <div class="row bottommargin">
 	<div class="img_row">
-		<img class="col-xs-12 col-sm-6 col-md-4" src="{{ site.baseurl }}/assets/img/project/2016-03-10/launch.jpg" alt="" title="Concept Mockups"/>
+		<img class="col-xs-12 col-sm-6 col-md-4" src="{{ site.baseurl }}/assets/img/project/2016-03-10/Launch.jpg" alt="" title="Concept Mockups"/>
 		<img class="col-xs-12 col-sm-6 col-md-4" src="{{ site.baseurl }}/assets/img/project/2016-03-10/Login-UI.jpg" alt="" title="Concept Mockups"/>
 		<img class="col-xs-12 col-sm-6 col-md-4" src="{{ site.baseurl }}/assets/img/project/2016-03-10/Timeline.jpg" alt="" title="Concept Mockups"/>
 	</div>
