@@ -31,6 +31,8 @@ Introducing the new generation journal app with mood tracker to help user keep a
 	</div>
 </div>
 
+<img class="center-img topmargin bottommargin-lg" src="{{ site.baseurl }}/assets/img/project/2016-03-10/design-insights.jpg" alt="header" title="Design Insights">
+
 
 <div class = "heading-block">
 	<h3> RESEARCH: SIMILAR APPS </h3>
