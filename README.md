@@ -1,4 +1,4 @@
-Solid. A Bootstrap theme for Jekyll.
+Arowana. A Bootstrap theme for Jekyll.
 ============
 ![Screenshot](http://zoe4meii.com/assets/img/github_browser.png)
 
