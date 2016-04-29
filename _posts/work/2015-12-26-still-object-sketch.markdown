@@ -5,7 +5,7 @@ date:   2014-04-25 16:54:46
 author: Marcel Newman
 categories:
 - work
-img: 20151226-still-object-sketch.jpg
-subjects: sketchbook
+img: sketch-1341.jpg
+subjects: print
 ---
 To get to the other side.

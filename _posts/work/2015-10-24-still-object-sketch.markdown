@@ -6,6 +6,6 @@ author: Marcel Newman
 categories:
 - work
 img: 20151024-still-object-sketch.jpg
-subjects: sketchbook
+subjects: print
 ---
 To get to the other side.

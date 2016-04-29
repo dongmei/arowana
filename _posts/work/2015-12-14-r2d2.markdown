@@ -6,6 +6,6 @@ author: Marcel Newman
 categories:
 - work
 img: 20151214-r2d2.png
-subjects: digital sketchbook
+subjects: digital
 ---
 To get to the other side.
