@@ -5,7 +5,7 @@ date:   2014-04-25 16:54:46
 author: Marcel Newman
 categories:
 - work
-img: 20151211-hk-trip.jpg
+img: illo-6.jpg
 subjects: digital illustration
 ---
 To get to the other side.

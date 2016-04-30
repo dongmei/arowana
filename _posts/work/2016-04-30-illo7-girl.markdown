@@ -5,7 +5,7 @@ date:   2014-04-25 16:54:46
 author: Marcel Newman
 categories:
 - work
-img: 20150814-girl-01.png
+img: illo-7.png
 subjects: illustration digital
 ---
 To get to the other side.
