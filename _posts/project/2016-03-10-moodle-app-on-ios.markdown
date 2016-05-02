@@ -78,6 +78,8 @@ Introducing the new generation journal app with mood tracker to help user keep a
 	<p>To achieve a minimal look, only two colors were selected to create a simple user interface. Blue color as the primary color, and bright pink as the secondary color for highlights and illustration.</p>
 </div>
 
+<h3> 1. SITE INVENTORY </h3>
+
 <img class="center-img topmargin bottommargin-lg" src="{{ site.baseurl }}/assets/img/project/2016-03-10/Color-scheme.jpg" alt="header" title="Color Scheme">
 
 <div class="row bottommargin">
@@ -89,7 +91,7 @@ Introducing the new generation journal app with mood tracker to help user keep a
 <img class="center-img topmargin bottommargin-lg" src="{{ site.baseurl }}/assets/img/project/2016-03-10/Logo-design.jpg" alt="header" title="Logo Design">
 
 
-<h2> CONCEPT MOCKUP </h2>
+<h3> 2. CONCEPT MOCKUP </h3>
 <div class="row bottommargin">
 	<div class="img_row">
 		<img class="col-xs-12 col-sm-4 col-md-4" src="{{ site.baseurl }}/assets/img/project/2016-03-10/Launch.jpg" alt="" title="Concept Mockups"/>
@@ -106,6 +108,6 @@ Introducing the new generation journal app with mood tracker to help user keep a
 	</div>
 </div>
 
-<h2> User FLow </h2>
+<h3> 3. User FLow </h3>
 <img class="center-img topmargin bottommargin-lg" src="{{ site.baseurl }}/assets/img/project/2016-03-10/User-Flow.jpg" alt="header" title="User Flow">
 
