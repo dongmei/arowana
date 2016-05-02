@@ -124,7 +124,7 @@ The battle between Uber and Grab is more and more fierce, with the announcement 
 </div>
 
 
-<h3> 2. UI Design: Booking</h3>
+<h3> 3. UI Design: Booking</h3>
 
 <div class="topmargin-sm bottommargin">
 	<p> Additional functions available in the booking confirmation stage for more flexibility:
@@ -157,7 +157,7 @@ The battle between Uber and Grab is more and more fierce, with the announcement 
 	</div>
 </div>
 
-<h3> 3. UI Design: Waiting For The Driver</h3>
+<h3> 4. UI Design: Waiting For The Driver</h3>
 
 <div class="topmargin-sm">
 	<p> When driver is found:
@@ -188,7 +188,7 @@ The battle between Uber and Grab is more and more fierce, with the announcement 
 	</div>
 </div>
 
-<h3> 3. UI Design: Trip Ends</h3>
+<h3> 5. UI Design: Trip Ends</h3>
 
 <div class="topmargin-sm">
 	<p> Once arrived at the destination:

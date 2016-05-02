@@ -1,7 +1,7 @@
 ---
 layout: project
 title:  "Jekyll Website Theme"
-date:   2015-11-30 21:00:00
+date:   2016-04-09 21:00:00
 author: Dongmei Hu
 categories:
 - project
@@ -11,7 +11,7 @@ description: A Jekyll powered website theme, perfect for online portfolio. Publi
 subjects: uxui
 ---
 
-Apes Portfolio is a front-end design for a online portfolio website template, powered by Jekyll. It is coded with HTML, CSS and a bit JQuery. With this template, you may build your personalized website for publishing blogs and presenting portfolio. 
+Apes Portfolio is a front-end design for a online portfolio website template, powered by Jekyll. It is coded with HTML, CSS and a bit JQuery. With this template, you can easily build your personalized website for publishing blogs and presenting portfolio. 
 <img class="center-img topmargin bottommargin-lg" src="{{ site.baseurl }}/assets/img/project/2015-11-30/github.png" alt="header" title="Persona">
 
 <div class="row bottommargin">
