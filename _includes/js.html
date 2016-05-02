@@ -18,6 +18,8 @@
 
 </script>
 {% endif %}
+
+
 <script>
 // Portfolio
 (function($) {
@@ -101,7 +103,7 @@
 })(jQuery);
 </script>
 
-<script type="text/javascript">
+<script type="text/javascript"> 
 
 
 /*	################################################################
@@ -118,6 +120,7 @@ $(window).load(function(){
         }
     });
  
+
     $('.galleryFilter a').click(function(){
         $('.galleryFilter .current').removeClass('current');
         $(this).addClass('current');
@@ -133,6 +136,9 @@ $(window).load(function(){
          });
          return false;
     }); 
+
+    $('.galleryFilter a').first().click();
+
 });
 
 </script>

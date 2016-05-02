@@ -5,17 +5,10 @@ date:   2015-10-07 16:54:46
 author: Dongmei Hu
 categories:
 - project
-tagged: Web,
 img: portfolio_2015-10-06.png
-thumb: thumb02.jpg
-carousel:
-- single01.jpg
-- single02.jpg
-- single03.jpg
-tagged: Website, Prototype, UI
+tagged: Website, UX/UI
 description: As an exploration in prototyping and website design, I have been working on the redesign of the website for Tokyo Marathon. Thoroughly challenging thinking through the wireframing and prototyping but ultimately rewarding.
-client: 
-website: 
+subjects: uxui
 ---
 
 Tokyo Marathon is listed as Top 10 World’s Best Marathons, while the event website is not up to the same standard. While I was registering for the 2016 race, my friends and I had difficulties in finding information and navigating through the web page. So I decided to take a closer look at the website, and explore how to make an improved site that is more effective, more engaging and more interactive.

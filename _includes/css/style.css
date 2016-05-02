@@ -12,7 +12,6 @@
 @import url(http://fonts.googleapis.com/css?family=Merriweather:400,300,400italic,700);
 @import url(http://fonts.googleapis.com/css?family=Lato:400,900);
 @import url(http://fonts.googleapis.com/css?family=Ubuntu:400,300,400italic,700);
-@import url(http://fonts.googleapis.com/css?amily=Arvo:400,400italic,700);
 @import url(http://fonts.googleapis.com/css?family=Droid+Serif:400,400italic,700,700italic);
 @import url(http://fonts.googleapis.com/css?family=Lora:400,400italic,700,700italic);
 @import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
@@ -232,8 +231,8 @@ a:focus {
 .btn-theme.active,
 .open .dropdown-toggle.btn-theme {
   color: #fff;
-  background-color: {{ site.colors.primary }};
-  border-color: {{ site.colors.primary }};
+  background-color: black;
+  border-color: black;
 }
 
 .dmbutton:hover,
@@ -270,7 +269,7 @@ a:focus {
 }
 
 .mtb {
-	margin-top: 80px;
+	margin-top: 10px;
 	margin-bottom: 80px;
 }
 
@@ -641,6 +640,7 @@ csmall {
 
 .badge-theme {
 	background: {{ site.colors.primary }};
+	opacity: .75;
 }
 
 /* Contact Page */

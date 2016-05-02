@@ -1,16 +1,14 @@
 ---
 layout: project
-title:  "MOODLE App on iOS Platform"
+title:  "MOODLE App"
 date:   2016-03-10 21:00:00
 author: Dongmei Hu
 categories:
 - project
-tagged: Mobile
 img: portfolio_2016-03-10.png
-tagged: Mobile, Prototype, UI
+tagged: Mobile, UX/UI
 description: I worked on MOODLE, an iOS APP that helps people write journal and keep track of their moods, mainly as a project to gain a better understanding of mobile app design and iOS design guidelines.
-client: 
-website: 
+subjects: uxui
 ---
 
 Introducing the new generation journal app with mood tracker to help user keep a journal for reflection. A summary of mood is available for review and exploring the connections among user’s action, surrounding environment and user’s emotion. With this approach, users benefit from clarifying their thoughts, monitoring their mood and getting to know themselves more. 

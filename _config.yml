@@ -2,7 +2,7 @@
 
 # Site settings
 title: Dongmei Hu | Personal Portfolio
-description: "Dongmei Hu is a web designer and interaction designer based in Singapore."
+description: "What I talk about when I talk about design, art and engineering"
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
 url: "http://portfolio.zoe4meii.com"
@@ -23,8 +23,7 @@ colors:  #in hex code if not noted else
   grey_color: "#B4B4B4"
   grey_color_light: lighten($grey_color, 40%);
   grey_color_dark:  darken($grey_color, 25%);
-  
-  
+
 ### CONTACT SETTINGS ###
 
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
@@ -39,7 +38,7 @@ social:
     url: https://www.instagram.com/zoemeii/
   - title: linkedin
     url: https://sg.linkedin.com/in/hu-dongmei-5387621b
-    
+
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:
   - lines: 
@@ -50,7 +49,7 @@ tel: +65 9692 1526
 
 
 # ### GENERAL DATA FOR VARIOUS LOCATIONS ###
-    
+
 # # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
 # about: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
 

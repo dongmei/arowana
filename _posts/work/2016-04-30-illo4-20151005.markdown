@@ -6,6 +6,6 @@ author: Marcel Newman
 categories:
 - work
 img: illo-20151005.png
-subjects: illustration digital
+subjects: illustration
 ---
 To get to the other side.

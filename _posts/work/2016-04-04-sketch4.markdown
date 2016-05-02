@@ -6,6 +6,6 @@ author: Marcel Newman
 categories:
 - work
 img: sketch-4.jpg
-subjects: print sketchbook
+subjects: sketchbook
 ---
 To get to the other side.
