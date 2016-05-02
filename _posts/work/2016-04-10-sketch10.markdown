@@ -1,11 +1,11 @@
 ---
 layout: project
 title:  "Why did the Chicken cross the road?"
-date:   2014-08-25 16:54:46
+date:   2014-04-10 16:54:46
 author: Marcel Newman
 categories:
 - work
 img: sketch-10.jpg
-subjects: sketchbook
+subjects: art
 ---
 To get to the other side.

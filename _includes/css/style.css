@@ -74,6 +74,10 @@ ul {
     padding-left: 20px;
 }
 
+ul .a {
+	list-style-type: circle;
+}
+
 ol {
     margin-left: 0;
     padding-left: 26px;
@@ -715,7 +719,8 @@ a.anchor{
 ################################################################# */
 /* By HDM*/
 .galleryFilter a { 
-    margin-right: 10px; 
+    margin-right: 40px; 
+    margin-left: 40px; 
 	color:#666;
 	text-decoration:none;
 }

@@ -14,7 +14,13 @@ subjects: uxui
 Apes Portfolio is a front-end design for a online portfolio website template, powered by Jekyll. It is coded with HTML, CSS and a bit JQuery. With this template, you may build your personalized website for publishing blogs and presenting portfolio. 
 <img class="center-img topmargin bottommargin-lg" src="{{ site.baseurl }}/assets/img/project/2015-11-30/github.png" alt="header" title="Persona">
 
-A live demo can be found on my GitHub page [Apes Portfolio](http://dongmei.github.io/apesportfolio/), and a detailed explanation on the theme elements can be found in the blog [post](http://dongmei.github.io/apesportfolio/blog/theme/Theme-Elements). 
+<div class="row bottommargin">
+	<p>
+		A live demo can be found on my GitHub page <a href="http://dongmei.github.io/apesportfolio/">Apes Portfolio</a>, and a detailed explanation on the theme elements can be found in the blog <a href="http://dongmei.github.io/apesportfolio/blog/theme/Theme-Elements">post</a>.
+	</p>
 
-Enjoy the theme? Feel free to fork this project on [my GitHub](https://github.com/dongmei/apesportfolio).  
-
+	<p>
+		Enjoy the theme? Feel free to fork this project on <a href="https://github.com/dongmei/apesportfolio">my GitHub</a>.  
+	</p>
+	
+</div>
