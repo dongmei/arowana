@@ -13,6 +13,8 @@ description: Interaction design and UI design for ride-hailing application on mo
 
 The battle between Uber and Grab is more and more fierce, with the announcement of new partnership and adjustment of riding fares. This projects is comprised of a <b>Competitor Analysis</b> between Uber and Grab, followed by a <b>Proposed New Design</b> of a ride-hailing app similar to Grab for a better user experience. 
 
+<img class="center-img topmargin bottommargin-lg" src="{{ site.baseurl }}/assets/img/project/2016-04-10/prototype.gif" alt="" title="">
+
 <div class = "heading-block">
 	<h3> COMPETITOR ANAYLYSIS</h3>
 </div>
