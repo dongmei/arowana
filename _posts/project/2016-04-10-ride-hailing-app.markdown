@@ -13,8 +13,6 @@ description: Interaction design and UI design for ride-hailing application on mo
 
 The battle between Uber and Grab is more and more fierce, with the announcement of new partnership and adjustment of riding fares. This projects is comprised of a <b>Competitor Analysis</b> between Uber and Grab, followed by a <b>Proposed New Design</b> of a ride-hailing app similar to Grab for a better user experience. 
 
-<img class="center-img topmargin bottommargin-lg" src="{{ site.baseurl }}/assets/img/project/2016-04-10/prototype.gif" alt="" title="">
-
 <div class = "heading-block">
 	<h3> COMPETITOR ANAYLYSIS</h3>
 </div>
@@ -95,7 +93,7 @@ The battle between Uber and Grab is more and more fierce, with the announcement 
 
 <h3> 1. Site Inventory</h3>
 
-<div class="row bottommargin">
+<div class="row topmargin bottommargin">
 	<div class="img_row">
 		<img class="col-xs-12 col-sm-6 col-md-6" src="{{ site.baseurl }}/assets/img/project/2016-04-10/inventory-color.jpg" alt="" title=""/>
 		<img class="col-xs-12 col-sm-6 col-md-6" src="{{ site.baseurl }}/assets/img/project/2016-04-10/inventory-font.jpg" alt="" title=""/>
@@ -119,9 +117,9 @@ The battle between Uber and Grab is more and more fierce, with the announcement 
 
 <div class="row topmargin bottommargin">
 	<div class="img_row">
-		<img class="col-xs-12 col-sm-4 col-md-4" src="{{ site.baseurl }}/assets/img/project/2016-04-10/main-page.jpg" alt="" title=""/>
+		<img class="col-xs-12 col-sm-4 col-md-4" src="{{ site.baseurl }}/assets/img/project/2016-04-10/main-page-screen.jpg" alt="" title=""/>
 		<img class="col-xs-12 col-sm-4 col-md-4" src="{{ site.baseurl }}/assets/img/project/2016-04-10/main-page-surge.jpg" alt="" title=""/>
-		<img class="col-xs-12 col-sm-4 col-md-4" src="{{ site.baseurl }}/assets/img/project/2016-04-10/menu.jpg" alt="" title=""/>
+		<img class="col-xs-12 col-sm-4 col-md-4" src="{{ site.baseurl }}/assets/img/project/2016-04-10/side-menu.jpg" alt="" title=""/>
 	</div>
 </div>
 
@@ -153,9 +151,9 @@ The battle between Uber and Grab is more and more fierce, with the announcement 
 
 <div class="row topmargin bottommargin">
 	<div class="img_row">
-		<img class="col-xs-12 col-sm-4 col-md-4" src="{{ site.baseurl }}/assets/img/project/2016-04-10/booking-1.jpg" alt="" title=""/>
-		<img class="col-xs-12 col-sm-4 col-md-4" src="{{ site.baseurl }}/assets/img/project/2016-04-10/booking-2.jpg" alt="" title=""/>
-		<img class="col-xs-12 col-sm-4 col-md-4" src="{{ site.baseurl }}/assets/img/project/2016-04-10/booking-3.jpg" alt="" title=""/>
+		<img class="col-xs-12 col-sm-4 col-md-4" src="{{ site.baseurl }}/assets/img/project/2016-04-10/confirm-screen.jpg" alt="" title=""/>
+		<img class="col-xs-12 col-sm-4 col-md-4" src="{{ site.baseurl }}/assets/img/project/2016-04-10/requesting-screen.jpg" alt="" title=""/>
+		<img class="col-xs-12 col-sm-4 col-md-4" src="{{ site.baseurl }}/assets/img/project/2016-04-10/requesting-extended.jpg" alt="" title=""/>
 	</div>
 </div>
 
@@ -184,9 +182,9 @@ The battle between Uber and Grab is more and more fierce, with the announcement 
 
 <div class="row topmargin bottommargin">
 	<div class="img_row">
-		<img class="col-xs-12 col-sm-4 col-md-4" src="{{ site.baseurl }}/assets/img/project/2016-04-10/waiting-1.jpg" alt="" title=""/>
-		<img class="col-xs-12 col-sm-4 col-md-4" src="{{ site.baseurl }}/assets/img/project/2016-04-10/waiting-2.jpg" alt="" title=""/>
-		<img class="col-xs-12 col-sm-4 col-md-4" src="{{ site.baseurl }}/assets/img/project/2016-04-10/waiting-3.jpg" alt="" title=""/>
+		<img class="col-xs-12 col-sm-4 col-md-4" src="{{ site.baseurl }}/assets/img/project/2016-04-10/found-drivers.jpg" alt="" title=""/>
+		<img class="col-xs-12 col-sm-4 col-md-4" src="{{ site.baseurl }}/assets/img/project/2016-04-10/on-the-way-screen.jpg" alt="" title=""/>
+		<img class="col-xs-12 col-sm-4 col-md-4" src="{{ site.baseurl }}/assets/img/project/2016-04-10/on-the-way-extended.jpg" alt="" title=""/>
 	</div>
 </div>
 
@@ -205,9 +203,13 @@ The battle between Uber and Grab is more and more fierce, with the announcement 
 </div>
 
 
-
 <div class="row topmargin bottommargin">
-	<div class="img_row bottommargin">
-		<img class="col-xs-12 col-sm-4 col-md-4  col-sm-offset-4 col-md-offset-4" src="{{ site.baseurl }}/assets/img/project/2016-04-10/end.jpg" alt="" title=""/>
+	<div class="img_row">
+		<img class="col-xs-12 col-sm-4 col-md-4 col-md-offset-2" src="{{ site.baseurl }}/assets/img/project/2016-04-10/end-payment-details.jpg" alt="" title=""/>
+		<img class="col-xs-12 col-sm-4 col-md-4" src="{{ site.baseurl }}/assets/img/project/2016-04-10/rate-trip.jpg" alt="" title=""/>
 	</div>
 </div>
+
+<h3> 6. High-Fidelity Prototype </h3>
+A clickable prototype is built with inVision. 
+<img class="center-img topmargin bottommargin-lg" src="{{ site.baseurl }}/assets/img/project/2016-04-10/prototype.gif" alt="" title="">
