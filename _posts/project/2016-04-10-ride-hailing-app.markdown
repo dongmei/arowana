@@ -1,6 +1,6 @@
 ---
 layout: project
-title:  "Uber VS. Grab: The Interaction Design"
+title:  "Uber VS. Grab: UX/UI Design"
 date:   2016-04-10 16:54:46
 author: Dongmei Hu
 categories:
