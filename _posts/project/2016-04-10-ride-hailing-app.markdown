@@ -100,6 +100,9 @@ The battle between Uber and Grab is more and more fierce, with the announcement 
 	</div>
 </div>
 
+
+<img class="center-img topmargin bottommargin-lg" src="{{ site.baseurl }}/assets/img/project/2016-04-10/inventory-icon.jpg" alt="" title="">
+
 <h3> 2. UI Design: Main Page</h3>
 
 <div class="topmargin-sm bottommargin">
