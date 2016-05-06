@@ -100,8 +100,12 @@ The battle between Uber and Grab is more and more fierce, with the announcement 
 	</div>
 </div>
 
-
-<img class="center-img topmargin bottommargin-lg" src="{{ site.baseurl }}/assets/img/project/2016-04-10/inventory-icon.jpg" alt="" title="">
+<div class="row topmargin bottommargin">
+	<div class="img_row">
+		<img class="col-xs-12 col-sm-6 col-md-6" src="{{ site.baseurl }}/assets/img/project/2016-04-10/inventory-icon-1.jpg" alt="" title=""/>
+		<img class="col-xs-12 col-sm-6 col-md-6" src="{{ site.baseurl }}/assets/img/project/2016-04-10/inventory-icon-2.jpg" alt="" title=""/>
+	</div>
+</div>
 
 <h3> 2. UI Design: Main Page</h3>
 
