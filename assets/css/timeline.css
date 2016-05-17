@@ -1,9 +1,12 @@
+
+
 .timeline {
   list-style: none;
   padding: 20px 0 20px;
   position: relative;
 }
 .timeline:before {
+  /* this is the vertical line */
   top: 0;
   bottom: 0;
   position: absolute;
@@ -36,7 +39,8 @@
 .timeline > li > .timeline-panel {
   width: 60%;
   float: left;
-  margin-left: 30px
+  margin-left: 30px;
+  margin-bottom: 40px;
   border: 1px solid #d4d4d4;
   border-radius: 2px;
   padding: 20px;
