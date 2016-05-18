@@ -19,6 +19,7 @@
 @import url("prettyPhoto.css") screen;
 @import url("hoverex-all.css") screen;
 @import url("timeline.css") screen;
+@import url("grayscale.css") screen;
 
 /*	################################################################
 	1. GENERAL STRUCTURES
@@ -27,8 +28,16 @@
 		margin: 0;
 		padding: 0px;
 	} 
+html {
+    width: 100%;
+    height: 100%;
+}
+
+
 
 body { 
+    width: 100%;
+    height: 100%;
 	background: #ffffff; 
 	margin: 0px; 
 	margin-bottom: 24px;
@@ -60,11 +69,8 @@ h1, h2, h3 {
 p { 
 	padding: 0; 
 	margin-bottom: 20px; 
-	/*font-family: 'Merriweather', serif;*/
 	font-family: 'Lora', 'Times New Roman', Times, serif;
-	/*font-weight: 400;*/
 	font-size: 21px; 
-	/*line-height: 24px;*/
 	color: #424242;
 	margin-top: 10px; 
 	color: #000000;
@@ -174,7 +180,7 @@ a:focus {
 	BOOTSTRAP MODIFICATIONS & TWEAKS
 ################################################################# */
 .navbar {
-	min-height: 70px;
+	/*min-height: 70px;*/
 	padding-top: 10px;
 	margin-bottom: 0px;
 	opacity: 0.75;
@@ -182,14 +188,8 @@ a:focus {
 
 .navbar-brand {
 	font-family: 'Raleway', sans-serif;
-	/*font-family: 'Montserrat', sans-serif;*/
-	/*font-weight: 900;*/
 }
 
-.navbar-header .navbar-brand, .navbar-default{
-	color: rgba(0,0,0,0.75);
-	background-color: #ffffff;
-}
 
 .navbar-default .navbar-nav > li > a {
 	/*color: rgba(0,0,0,0.75);*/
@@ -304,7 +304,7 @@ a:focus {
 /* Modified for navbar logo. By HDM*/
 .header-logo {
 	float: left;
-	margin-top:10px;
+	margin-top: -5px;
 	width: 32px;
 	height: 32px;
 	/*background: #ffffff;*/

@@ -1,19 +1,25 @@
-<div id="headerwrap">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-8 col-lg-offset-2">
-                <!-- <h3>Show your work with this beautiful theme</h3> -->
-                <br>
-                <br>
-                <h1>Dongmei Hu</h1>
-                <h3>What I talk about when I talk about</h3>
-                <h3>Design, Art and Engineering</h3>	
-                <br>
-                <br>			
-            </div>
-            <div class="col-lg-8 col-lg-offset-2 himg">
-                <img src="{{ "/assets/img/browser.png" | prepend: site.baseurl }}" class="img-responsive">
-            </div>
-        </div><!-- /row -->
-    </div> <!-- /container -->
-</div><!-- /headerwrap -->
+<header id="headerwrap" class="intro">
+    <div class="intro-body">
+        <div class="container">
+            <div class="row">
+
+                <div class="col-lg-8 col-lg-offset-2">
+                    <!-- <h3>Show your work with this beautiful theme</h3> -->
+                    <h1 class="brand-heading">Dongmei Hu</h1>
+                    <h3 class="intro-text"> What I talk about when I talk about</h3>
+                    <p class="intro-text">Design, Art and Engineering</p>
+                    
+                    <img src="{{ "/assets/img/browser.png" | prepend: site.baseurl }}" class="img-responsive">
+                    
+	
+                </div>
+
+                <div class="col-lg-8 col-lg-offset-2">
+                    <a href="{{"/timeline/" | prepend: site.baseurl }}" class="btn btn-circle page-scroll">
+                        <i class="fa fa-angle-double-down animated"></i>
+                    </a>
+                </div>        
+            </div><!-- /row -->
+        </div> <!-- /container -->
+    </div><!-- /intro-body -->
+</header><!-- /headerwrap -->
