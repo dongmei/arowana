@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="62px" height="62px" viewBox="0 0 62 62" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
-    <title>visual design</title>
+    <title>visual</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="MyWork" transform="translate(-179.000000, -220.000000)">
+        <g id="MyWork" transform="translate(-180.000000, -221.000000)">
             <g id="visual-design" transform="translate(179.000000, 220.000000)">
                 <rect id="Rectangle-2" x="0" y="0" width="64" height="64"></rect>
-                <circle id="Oval-86" stroke="#4A4A4A" fill="#4A4A4A" cx="32" cy="32" r="31"></circle>
+                <circle id="Oval-86" cx="32" cy="32" r="31"></circle>
                 <path d="M31,51 L24.9933977,51 C24.4449463,51 24,51.4477153 24,52 C24,52.5561352 24.4447593,53 24.9933977,53 L41.0066023,53 C41.5550537,53 42,52.5522847 42,52 C42,51.4438648 41.5552407,51 41.0066023,51 L35,51 L35,46 L31,46 L31,51 Z" id="Combined-Shape" fill="#FFFFFF"></path>
                 <path d="M31.0831012,20 L48.9976004,20 C50.1034952,20 51,20.8897632 51,22.0035949 L51,42.9964051 C51,44.10296 50.1037214,45 48.9976004,45 L16.0023996,45 C14.8965048,45 14,44.1102368 14,42.9964051 L14,33.9107434 C14.6233373,34.308018 15.2948449,34.6238764 16,34.8581662 L16,40 L49,40 L49,22 L31.5693232,22 C31.4820937,21.3141609 31.3206537,20.6436639 31.0831012,20 Z" id="Combined-Shape" fill="#FFFFFF"></path>
                 <path d="M38.3195586,13.7045756 C38.3489746,12.5952864 39.2695992,11.6960299 40.3756755,11.6960299 L40.1540638,11.6960299 C41.2602099,11.6960299 42.1331559,12.5921281 42.1036562,13.7045756 L41.6040113,32.5464412 C41.5745954,33.6557304 40.6539708,34.5549869 39.5478944,34.5549869 L39.7695061,34.5549869 C38.6633601,34.5549869 37.7904141,33.6588887 37.8199137,32.5464412 L38.3195586,13.7045756 Z" id="Rectangle-174" fill="#FFFFFF" transform="translate(39.961785, 23.125508) rotate(-315.000000) translate(-39.961785, -23.125508) "></path>

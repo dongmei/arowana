@@ -41,7 +41,7 @@
   left: 12px;
   height: 100%;
   width: 4px;
-  background: #d7e4ed;
+  background: #d8d8d8;
 }
 
 @media only screen and (min-width: 1170px) {
@@ -163,6 +163,7 @@
   width: 24px;
   height: 24px;
   border-radius: 50%;
+  /*background: #4b4b4b;*/
   box-shadow: 0 0 0 4px #ffffff, inset 0 2px 0 rgba(0, 0, 0, 0.08), 0 3px 0 4px rgba(0, 0, 0, 0.05);
 }
 .timeline-badge img {
@@ -181,6 +182,7 @@
     height: 60px;
     left: 20%;
     margin-left: -30px;
+      /*background: #75ce66;*/
     /* Force Hardware Acceleration in WebKit */
     /*
     -webkit-transform: translateZ(0);
@@ -205,6 +207,31 @@
     animation: cd-bounce-1 0.6s;
   } */
 }
+
+
+.timeline-badge.img-travel {
+  background: #E57373;
+}
+.timeline-badge.img-plan {
+  background: #FFB74D;
+}
+.timeline-badge.img-visual {
+  background: #FFD54F;
+}
+.timeline-badge.img-uxui {
+  background: #9CCC65;
+}
+.timeline-badge.img-tools {
+  background: #4FC3F7;
+}
+.timeline-badge.img-code {
+  background: #7986CB;
+}
+.timeline-badge.img-learn {
+  background: #BA68C8;
+}
+
+
 
 @-webkit-keyframes cd-bounce-1 {
   0% {
@@ -265,10 +292,10 @@
   /*position: relative;*/
   float: right;
   margin-right: 40px;
-  background: #f3f3f3;
+  background: #f5f5f5;
   border-radius: 0.25em;
   padding: 1em;
-  box-shadow: 0 3px 0 #d7e4ed;
+  box-shadow: 0 3px 0 #ececec;
 }
 
 .timeline-panel h2 {
@@ -403,7 +430,7 @@
   background-color: #5bc0de !important;
 }*/
 .timeline-title {
-  margin-top: 0;
+  margin-top: -10px;
   color: inherit;
 }
 .timeline-body p {

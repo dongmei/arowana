@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="62px" height="62px" viewBox="0 0 62 62" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
     <title>code</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="MyWork" transform="translate(-419.000000, -220.000000)">
+        <g id="MyWork" transform="translate(-420.000000, -221.000000)">
             <g id="code" transform="translate(419.000000, 220.000000)">
                 <rect id="Rectangle-2" x="0" y="0" width="64" height="64"></rect>
-                <circle id="Oval-86" stroke="#4A4A4A" fill="#4A4A4A" cx="32" cy="32" r="31"></circle>
+                <circle id="Oval-86" cx="32" cy="32" r="31"></circle>
                 <g id="Group" transform="translate(11.000000, 14.000000)" fill="#FFFFFF">
                     <g transform="translate(8.338983, 12.807692)" id="Shape">
                         <path d="M9.15376271,9.50249451 L9.15376271,12.0652527 L0.0406779661,8.11651923 L0.0406779661,5.92538736 L9.15376271,1.97756868 L9.15376271,4.55821703 L2.8040339,7.00367308 L9.15376271,9.50249451 L9.15376271,9.50249451 Z"></path>
