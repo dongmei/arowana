@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="62px" height="62px" viewBox="0 0 62 62" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
+    <title>arrow</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="32" cy="32" r="31"></circle>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="MyWork" transform="translate(-98.000000, -302.000000)">
+            <g id="arrow" transform="translate(97.000000, 301.000000)">
+                <rect id="Rectangle-2" x="0" y="0" width="64" height="64"></rect>
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Oval-86" xlink:href="#path-1"></use>
+            </g>
+            <path d="M127,347.171573 L127,315.00527 C127,313.89779 127.88773,313 129,313 C130.104569,313 131,313.894473 131,315.00527 L131,347.171573 L138.539006,339.632567 C139.318137,338.853436 140.577467,338.849545 141.363961,339.636039 C142.14501,340.417088 142.146995,341.681432 141.367433,342.460994 L131.460994,352.367433 C131.27588,352.552547 131.06366,352.693899 130.837115,352.791286 C130.53157,353.502473 129.828002,354 129,354 C128.176867,354 127.469876,353.503269 127.16304,352.790451 C126.93635,352.693447 126.724025,352.552452 126.539006,352.367433 L116.632567,342.460994 C115.853436,341.681863 115.849545,340.422533 116.636039,339.636039 C117.417088,338.85499 118.681432,338.853005 119.460994,339.632567 L127,347.171573 Z" id="Combined-Shape" fill="#D8D8D8"></path>
+        </g>
+    </g>
+</svg>
