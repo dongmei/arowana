@@ -12,12 +12,6 @@
 
 
 <div class="portfolioContainer">
-     {% for work in site.categories['work'] limit:include.limit %}
-               <div class="{{ work.subjects }} col-lg-12 galleryitem centered">
-                   <img src="/assets/img/work/{{work.img}}" alt="image" >
-                </div>
-     {% endfor %}
-
 
      {% for project in site.categories['project'] limit:include.limit %}
 
@@ -51,6 +45,12 @@
             </div><!-- portfolio -->
         </div> <!--portfolio container -->
 
+
+     {% for work in site.categories['work'] limit:include.limit %}
+               <div class="{{ work.subjects }} col-lg-12 galleryitem centered">
+                   <img src="/assets/img/work/{{work.img}}" alt="image" >
+                </div>
+     {% endfor %}
     {% endfor %}
 
 </div>
