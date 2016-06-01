@@ -45,12 +45,12 @@
             </div><!-- portfolio -->
         </div> <!--portfolio container -->
 
-
+     {% endfor %}
      {% for work in site.categories['work'] limit:include.limit %}
                <div class="{{ work.subjects }} col-lg-12 galleryitem centered">
                    <img src="/assets/img/work/{{work.img}}" alt="image" >
                 </div>
      {% endfor %}
-    {% endfor %}
+    
 
 </div>
