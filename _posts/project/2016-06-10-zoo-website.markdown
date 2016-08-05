@@ -14,7 +14,7 @@ description: Responsive website design for a digital volunteer handbook. Front-e
 The volunteers in Singapore zoo uses handbook in PDF for training and reviewing materials. In this project, I design a responsive website for mobile, tablet and desktop so that new trainees and existing volunteers have access to latest information about the reptiles in the zoo. Plus, I design the visual element to illustrate key information to help volunteers to understand training materials more easily and effectively. 
 
 <div style="margin:auto; text-align:center;">
-    <a href="https://dongmei.github.io/rr-handbook/" target="_blank" class="btn btn-theme">Visit Website</a>
+    <a href="https://dongmei.github.io/rr-handbook/" target="_blank" class="btn btn-theme">View Website</a>
 </div>	
 
 <div class = "heading-block">
